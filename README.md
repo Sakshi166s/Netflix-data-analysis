@@ -7,13 +7,8 @@ test my data cleaning and visualization skills.
    To find the types of content. To see which year has most released content. Analyse with the help of content distribution. find countries which has most contents on netflix.
    
 # Key insights - 
-
-    In our dataset, type of content is Movies and TV shows . Movies are 6126 and Tv shows are 2664.
-    
-    Most frequent categories are international movies , Dramas , Comedy.
-    
-    2020 has the most releasing year in dataset.
-    
-    Highest rating on content is TV-MA.
-    
-    Most of the contents are from United states.
+ In our dataset, type of content is Movies and TV shows . Movies are 6126 and Tv shows are 2664.
+ Most frequent categories are international movies , Dramas , Comedy.
+ 2020 has the most releasing year in dataset.
+ Highest rating on content is TV-MA.
+ Most of the contents are from United states.
