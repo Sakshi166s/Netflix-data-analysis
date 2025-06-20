@@ -6,9 +6,6 @@ test my data cleaning and visualization skills.
 # Objectives - 
    To find the types of content. To see which year has most released content. Analyse with the help of content distribution. find countries which has most contents on netflix.
 
-   
-
-Uploading Screen Recording 2025-06-20 165838.mp4…
 
 
 # Key insights -
