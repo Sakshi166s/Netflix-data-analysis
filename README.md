@@ -8,14 +8,14 @@ test my data cleaning and visualization skills.
 
 
 
-# Key insights -
+🚀Key insights -
 
- In our dataset, types of content are Movies and TV shows . Movies are 6126 and Tv shows are 2664.
+ 💠In our dataset, types of content are Movies and TV shows . Movies are 6126 and Tv shows are 2664.
  
- Most frequent categories are international movies , Dramas , Comedy.
+💠Most frequent categories are international movies , Dramas , Comedy.
  
- 2020 has the most releasing year in dataset.
+💠2020 has the most releasing year in dataset.
  
- Highest rating on content is TV-MA.
+💠Highest rating on content is TV-MA.
  
- Most of the contents are from United states.
+💠Most of the contents are from United states.
