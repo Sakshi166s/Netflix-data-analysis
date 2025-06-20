@@ -1,8 +1,7 @@
 # Netflix Data Analysis
 
-Netflix is an American subscription video on-demand over-the-top streaming service.The service primarily distributes original and acquired films and television shows from various genres, and it is available internationally in multiple languages.
-The data consist of contents added to Netflix from 2008 to 2021.The purpose of this dataset is to
- test my data cleaning and visualization skills.
+Netflix is an American subscription video on-demand over-the-top streaming service.The service primarily distributes original and acquired films and television shows from various genres, and it is availableinternationally in multiple languages.The data consist of contents added to Netflix from 2008 to 2021.The purpose of this dataset is to
+test my data cleaning and visualization skills.
 
 # Objectives - 
    To find the types of content. To see which year has most released content. Analyse with the help of content distribution. find countries which has most contents on netflix.
